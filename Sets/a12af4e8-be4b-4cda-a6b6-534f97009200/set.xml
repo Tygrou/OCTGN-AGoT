@@ -331,7 +331,7 @@
 			<property name="ErrataText" value="" />
 			<property name="Enhancement" value="" /> 
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97009216" name="Ser Aerys Oakheart ">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97009216" name="Ser Arys Oakheart">
 			<property name="House" value="Lannister. Martell." />
 			<property name="Type" value="Character" />
 			<property name="Traits" value="Knight. Kingsguard." />
