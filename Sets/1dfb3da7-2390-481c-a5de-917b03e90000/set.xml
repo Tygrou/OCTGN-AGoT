@@ -1,0 +1,2760 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="CCG42 - A Song of Night" id="1dfb3da7-2390-481c-a5de-917b03e90000" gameId="a12af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.0.1" version="1.0">
+  <cards>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90001" name="Blood Betrayal">
+<property name="House" value="Stark"/>
+<property name="Type" value="Attachment"/>
+<property name="Traits" value="Condition,,"/>
+<property name="Text" value="Attached character cannot be declared as an attacker or defender while its controller has less than 4 total STR in his or her dead pile. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90002" name="Many Leeches">
+<property name="House" value="Stark"/>
+<property name="Type" value="Attachment"/>
+<property name="Traits" value="Boon,,"/>
+<property name="Text" value="Attached character gets +1 STR. Response: discard Frequent Leechings from play (cannot be saved) to save attached character from being killed. Then, stand that character. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90003" name="Hodor">
+<property name="House" value="Stark"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Ally,,"/>
+<property name="Text" value="Hodor cannot be declared as an attacker. Hodor cannot be bypassed by characters with stealth. "/>
+<property name="Keywords" value="No Attachments,Deadly,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value="4"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90004" name="Osha">
+<property name="House" value="Stark"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Ally,Wildling,"/>
+<property name="Text" value="Response: after a Stark character is killed, stand Osha. Then, she gets +3 STR and is immune to events until the end of the phase"/>
+<property name="Keywords" value="Stealth,,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="2"/>
+<property name="Strength" value="2"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="1"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90005" name="Ser Rodrik Cassel">
+<property name="House" value="Stark"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Knight,,"/>
+<property name="Text" value="Immune to character abilities. While Ser Rodrik Cassel is attacking or defending, opponents' characters cannot have their STR raised by triggered effects. "/>
+<property name="Keywords" value="No Attachments,,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="4"/>
+<property name="Strength" value="3"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90006" name="Dreadfort Captain">
+<property name="House" value="Stark"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Ally,Mercenary,"/>
+<property name="Text" value="Response: after you play Dreadfort Captain from your hand, choose and kill a neutral character with STR lower than the total STR in your dead pile. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="4"/>
+<property name="Strength" value="2"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90007" name="Greywater Watchmen">
+<property name="House" value="Stark"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Army,House Reed,"/>
+<property name="Text" value="Greywater Watchmen gains stealth during a phase in which its STR has been raised or lowered. "/>
+<property name="Keywords" value="No Attachments,Deadly,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="3"/>
+<property name="Strength" value="3"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90008" name="River Rider">
+<property name="House" value="Stark"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="House Tully,,"/>
+<property name="Text" value="Any phase: kneel River Rider to choose a character. Until the end of the phase, that character gets +1 STR (+2 STR instead if that character has the Army trait). "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value="1"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90009" name="Robb's Sworn Swords">
+<property name="House" value="Stark"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Army,,"/>
+<property name="Text" value="Response: after Robb's Sworn Swords comes into play or leaves play, choose and kill a neutral character."/>
+<property name="Keywords" value="No Attachments,Deadly,Renown,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="7"/>
+<property name="Strength" value="7"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90010" name="Shackled Defender">
+<property name="House" value="Stark"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="House Umber,,"/>
+<property name="Text" value=""/>
+<property name="Keywords" value="Doomed,,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="3"/>
+<property name="Strength" value="6"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90011" name="Wolf Stalwart">
+<property name="House" value="Stark"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Lord,,"/>
+<property name="Text" value="While Wolf Stalwart is participating in a challenge, other participating characters with printed STR 3 or lower do not count their STR. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="4"/>
+<property name="Strength" value="4"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90012" name="The White Knife">
+<property name="House" value="Stark"/>
+<property name="Type" value="Location"/>
+<property name="Traits" value="Westeros,Battlefield,"/>
+<property name="Text" value="Characters with STR 6 or higher do not kneel to defend. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="2"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90013" name="Deepwood Motte">
+<property name="House" value="Stark"/>
+<property name="Type" value="Location"/>
+<property name="Traits" value="Battlefield,,"/>
+<property name="Text" value="Response: after Deepwood Motte comes into play, return all other Battlefield locations to their owners' hands. While you have 4 or more total STR in your dead pile, you may declare an additional military challenge each phase."/>
+<property name="Keywords" value="Doomed,,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="3"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90014" name="Bogs of the Neck">
+<property name="House" value="Stark"/>
+<property name="Type" value="Location"/>
+<property name="Traits" value="Battlefield,,"/>
+<property name="Text" value="After a player loses a challenge by 4 or more total STR, characters he or she controls cannot be saved until the end of the phase. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90015" name="Fields of Ice">
+<property name="House" value="Stark"/>
+<property name="Type" value="Location"/>
+<property name="Traits" value="Winterfell,,"/>
+<property name="Text" value="Challenges: kneel Fields of Ice to choose a defending character. Until the end of the phase, that character gets +5 STR. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="2"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90016" name="A Better Offer">
+<property name="House" value="Lannister"/>
+<property name="Type" value="Attachment"/>
+<property name="Traits" value="Condition,,"/>
+<property name="Text" value="Attach to a character with printed STR 2 or lower. Take control of attached character. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="2"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90017" name="Mad with Power">
+<property name="House" value="Lannister"/>
+<property name="Type" value="Attachment"/>
+<property name="Traits" value="Condition,,"/>
+<property name="Text" value="Power on attached character does not count towards its controller's total power. Attached character's controller needs X additional power to win the game, where X is the amount of power on attached character. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90018" name="Varys' Counsel">
+<property name="House" value="Lannister"/>
+<property name="Type" value="Attachment"/>
+<property name="Traits" value="Boon,,"/>
+<property name="Text" value="Attached character gets +2 STR. While attached character has an intrigue icon, it gains stealth. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90019" name="Bronn">
+<property name="House" value="Lannister"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Knight,Mercenary,"/>
+<property name="Text" value="Any phase: kneel 2 influence to choose a character. Until the end of the phase, if that character would be killed and Bronn is kneeling, stand Bronn instead of killing that character."/>
+<property name="Keywords" value="No Attachments,Deadly,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="3"/>
+<property name="Strength" value="3"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90020" name="Grand Maester Pycelle">
+<property name="House" value="Lannister"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Maestar,,"/>
+<property name="Text" value="Response: after an opponent's effect reveals one or more cards, reveal the top card of your deck and put it into your hand (limit 3 per phase). "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="3"/>
+<property name="Strength" value="2"/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="1"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90021" name="Ser Adam Marbrand">
+<property name="House" value="Lannister"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Lord,Knight,"/>
+<property name="Text" value="While you control more Lord characters than any opponent, your Army characters do not kneel to attack or defend. "/>
+<property name="Keywords" value="No Attachments,,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="4"/>
+<property name="Strength" value="3"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90022" name="Bronn's Hireling">
+<property name="House" value="Lannister"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Ally,,"/>
+<property name="Text" value=""/>
+<property name="Keywords" value="Deadly,,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value="1"/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="1"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90023" name="Defender of Kings' Landing">
+<property name="House" value="Lannister"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Army,,"/>
+<property name="Text" value="Response: after Defenders of King's Landing comes into play or leaves play, choose and kneel up to 2 characters. "/>
+<property name="Keywords" value="No Attachments,Deadly,Stealth,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="7"/>
+<property name="Strength" value="7"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90024" name="House Brax Footmen">
+<property name="House" value="Lannister"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Army,,"/>
+<property name="Text" value="Response: after House Brax Footmen's STR has been raised or lowered, choose and kneel a character with STR 3 or lower. "/>
+<property name="Keywords" value="No Attachments,Deadly,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="4"/>
+<property name="Strength" value="3"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90025" name="Lion Lord">
+<property name="House" value="Lannister"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Lord,,"/>
+<property name="Text" value="While Lion Lord is participating in a challenge, other participating characters with printed STR 1 or lower do not count their STR. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="3"/>
+<property name="Strength" value="2"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="1"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90026" name="Master of Spies">
+<property name="House" value="Lannister"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Ally,,"/>
+<property name="Text" value="Opponents with less than 4 total STR in their dead pile must play with their hands revealed. "/>
+<property name="Keywords" value="Stealth,,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="2"/>
+<property name="Strength" value="1"/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="1"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90027" name="Horde of the Halfman">
+<property name="House" value="Lannister"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Army,Clansman,"/>
+<property name="Text" value="The Halfman's Horde's STR cannot be lowered. Any phase: if Tyrion Lannister is in play, kneel the Halfman's Horde and choose a location. That location gains the Battlefield trait until the end of the phase."/>
+<property name="Keywords" value="No Attachments,Deadly,Doomed,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="4"/>
+<property name="Strength" value="6"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90028" name="Fair Isle">
+<property name="House" value="Lannister"/>
+<property name="Type" value="Location"/>
+<property name="Traits" value="Westeros,,"/>
+<property name="Text" value="Characters with STR 6 or higher gain an intrigue icon and do not kneel to attack during intrigue challenges. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="2"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90029" name="The Blackwater Shores">
+<property name="House" value="Lannister"/>
+<property name="Type" value="Location"/>
+<property name="Traits" value="Battlefield,,"/>
+<property name="Text" value="Response: after The Blackwater Shores comes into play, return all other Battlefield locations to their owners' hands. While you have 4 or more total STR in your dead pile, lower the cost for you to play characters by 1."/>
+<property name="Keywords" value="Deathbound,Doomed,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="2"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90030" name="Banks of the Tumblestone">
+<property name="House" value="Lannister"/>
+<property name="Type" value="Location"/>
+<property name="Traits" value="Battlefield,,"/>
+<property name="Text" value="After a player loses a challenge by 4 or more total STR, he or she must choose and kneel a standing character he or she controls. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90031" name="Oathkeeper">
+<property name="House" value="Baratheon"/>
+<property name="Type" value="Attachment"/>
+<property name="Traits" value="Weapon,,"/>
+<property name="Text" value="Attached character gets +3 STR while you control no Mercenary, Ally, or Traitor characters. Response: kneel Oathkeeper to save attached character from being killed or discarded if attached character has 1 or more power."/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90032" name="Accepted Destiny">
+<property name="House" value="Baratheon"/>
+<property name="Type" value="Attachment"/>
+<property name="Traits" value="Boon,,"/>
+<property name="Text" value="Attached character gets +1 STR for each power on your House. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90033" name="The Bastard of Nightsong">
+<property name="House" value="Baratheon"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Bastard,Lord,"/>
+<property name="Text" value="While an opponent's House card is kneeling, raise the Claim value on your revealed plot card by 1."/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="3"/>
+<property name="Strength" value="2"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="1"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90034" name="Ser Axel Florent">
+<property name="House" value="Baratheon"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Knight,House Florent,"/>
+<property name="Text" value="Ser Axel Florent does not stand during the standing phase unless you kneel 1 influence. While Ser Axel Florent is kneeling, he gains renown and is immune to opponents' events. "/>
+<property name="Keywords" value="No Attachments,,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="3"/>
+<property name="Strength" value="3"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90035" name="Army of Light">
+<property name="House" value="Baratheon"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Army,Asshai,"/>
+<property name="Text" value="Response: after Army of Light comes into play or leaves play, choose and kneel up to 2 locations. "/>
+<property name="Keywords" value="No Attachments,Deadly,Renown,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="7"/>
+<property name="Strength" value="7"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90036" name="Faithless Follower">
+<property name="House" value="Baratheon"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="House Florent,,"/>
+<property name="Text" value="Faithless Follower gets +1 STR and gains a military icon if you control no other characters with printed STR 1. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value="1"/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="1"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90037" name="Ser Garlan's Batallion">
+<property name="House" value="Baratheon"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Army,House Tyrell,"/>
+<property name="Text" value="While Ser Garlan's Battalion is participating in a challenge, all other participating non-Army characters lose deadly."/>
+<property name="Keywords" value="No Attachments,Deadly,Doomed,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="5"/>
+<property name="Strength" value="7"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90038" name="Stag Guardian">
+<property name="House" value="Baratheon"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Lord,,"/>
+<property name="Text" value="Immune to opponent's events. While Stag Guardian is participating in a challenge, other participating characters with printed STR 2 or lower do not count their STR. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="3"/>
+<property name="Strength" value="3"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90039" name="Stannis' Northern Cavalry">
+<property name="House" value="Baratheon"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Army,,"/>
+<property name="Text" value="Stannis's Northern Cavalry cannot be killed or discarded from play during a phase in which its STR has been raised or lowered. "/>
+<property name="Keywords" value="No Attachments,Deadly,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="4"/>
+<property name="Strength" value="3"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90040" name="Turncoat Lord">
+<property name="House" value="Baratheon"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Lord,,"/>
+<property name="Text" value="Opponents with less than 4 total STR in their dead pile do not claim power for unopposed challenges. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="3"/>
+<property name="Strength" value="3"/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="1"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90041" name="Cape Wrath">
+<property name="House" value="Baratheon"/>
+<property name="Type" value="Location"/>
+<property name="Traits" value="Westeros,,"/>
+<property name="Text" value="Characters with STR 6 or higher cannot be chosen as the only target of an event card or character ability. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="2"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90042" name="Mouth of the Blackwater">
+<property name="House" value="Baratheon"/>
+<property name="Type" value="Location"/>
+<property name="Traits" value="Battlefield,,"/>
+<property name="Text" value="Response: after Mouth of the Blackwater comes into play, return all other Battlefield locations to their owners' hands. While you have 4 or more total STR in your dead pile, stand all of your characters at the beginning of each phase."/>
+<property name="Keywords" value="Deathbound,Doomed,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="2"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90043" name="Field Command Tent">
+<property name="House" value="Baratheon"/>
+<property name="Type" value="Location"/>
+<property name="Traits" value="Westeros,,"/>
+<property name="Text" value="Any phase: kneel Field Command Tent and kneel a character you control to choose and stand a character with higher printed STR than the printed STR of the knelt character. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90044" name="Fields of Storm's End">
+<property name="House" value="Baratheon"/>
+<property name="Type" value="Location"/>
+<property name="Traits" value="Battlefield,,"/>
+<property name="Text" value="After a player loses a challenge by 4 or more total STR, he or she must move 1 power from his or her House to a character in play, if able. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90045" name="Sallador's Escort Ship">
+<property name="House" value="Baratheon"/>
+<property name="Type" value="Location"/>
+<property name="Traits" value="Warship,,"/>
+<property name="Text" value="Challenges: kneel Salla's Escort Ship to choose two characters. Until the end of the phase, one of those characters gets -1 STR and the other gets +1 STR. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="2"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90046" name="Blessed with Iron">
+<property name="House" value="Greyjoy"/>
+<property name="Type" value="Attachment"/>
+<property name="Traits" value="Boon,,"/>
+<property name="Text" value="Attached character gets +2 STR. Response: after a character or location is saved, stand attached character. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90047" name="Allanys Greyjoy">
+<property name="House" value="Greyjoy"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Queen,House Harlaw,"/>
+<property name="Text" value="Immune to events. Any Phase: until the end of the phase, raise or lower the total STR in any player's dead pile by 2 (limit once per phase). "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="3"/>
+<property name="Strength" value="3"/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="1"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90048" name="Captain Bluetooth">
+<property name="House" value="Greyjoy"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Ironborn,,"/>
+<property name="Text" value="Challenges: discard a Warship location from play (cannot be saved) to choose a character. Until the end of the phase, that character gets -2 STR. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="2"/>
+<property name="Strength" value="2"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90049" name="Asha's Raiders">
+<property name="House" value="Greyjoy"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Army,,"/>
+<property name="Text" value="Response: after Asha's Raiders's STR has been raised or lowered, it gains renown until the end of the phase. "/>
+<property name="Keywords" value="No Attachments,Deadly,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="4"/>
+<property name="Strength" value="3"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90050" name="Cleftjaw's Reavers">
+<property name="House" value="Greyjoy"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Army,Ironborn,"/>
+<property name="Text" value="Challenges: Cleftjaw's Reavers gets +2 STR for the duration of the challenge (limit once per phase)."/>
+<property name="Keywords" value="No Attachments,Deadly,Doomed,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="4"/>
+<property name="Strength" value="5"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90051" name="Damphair's Faithful">
+<property name="House" value="Greyjoy"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="House Goodbrother,,"/>
+<property name="Text" value="Response: after a character is saved, Damphair's Faithful gets +3 STR and gains an intrigue and a power icon until the end of the phase"/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value="1"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90052" name="Drowned Pillager">
+<property name="House" value="Greyjoy"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Ironborn,,"/>
+<property name="Text" value="Response: after you play Drowned Pillager from your hand, if you have at least 4 total STR in your dead pile, choose and discard a kneeling location. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="2"/>
+<property name="Strength" value="1"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90053" name="Euron's Counselor">
+<property name="House" value="Greyjoy"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Ally,,"/>
+<property name="Text" value="Immune to events. Any Phase: kneel Euron's Counselor to choose a character. Until the end of the phase, that character is immune to events. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="2"/>
+<property name="Strength" value="1"/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="1"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90054" name="Goodbrother Recruit">
+<property name="House" value="Greyjoy"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="House Goodbrother,,"/>
+<property name="Text" value="Challenges: kneel Goodbrother Recruit to choose a character. Until the end of the phase, that character gains a military icon. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value="1"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90055" name="King Euron's Horde">
+<property name="House" value="Greyjoy"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Army,,"/>
+<property name="Text" value="Response: after King Euron's Horde comes into play or leaves play, search your deck for a Warship location and put it into play. Then shuffle your deck. "/>
+<property name="Keywords" value="No Attachments,Deadly,Renown,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="7"/>
+<property name="Strength" value="7"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90056" name="Kraken Conqueror">
+<property name="House" value="Greyjoy"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Lord,,"/>
+<property name="Text" value="While Kraken Conqueror is participating in a challenge, other participating characters with printed STR 2 or lower do not count their STR. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="3"/>
+<property name="Strength" value="3"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90057" name="Isle of Orkmont">
+<property name="House" value="Greyjoy"/>
+<property name="Type" value="Location"/>
+<property name="Traits" value="Iron Islands,,"/>
+<property name="Text" value="Characters with STR 6 or higher gain deadly."/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90058" name="Torrhen's Square">
+<property name="House" value="Greyjoy"/>
+<property name="Type" value="Location"/>
+<property name="Traits" value="Battlefield,,"/>
+<property name="Text" value="Response: after Torrhen's Square comes into play, return all other Battlefield locations to their owners' hands. While you have 4 or more total STR in your dead pile, opponents must pay a +1 gold penalty for the first location they play each marshalling phase"/>
+<property name="Keywords" value="Deathbound,Doomed,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90059" name="Blacktyde Longship">
+<property name="House" value="Greyjoy"/>
+<property name="Type" value="Location"/>
+<property name="Traits" value="Warship,,"/>
+<property name="Text" value="Response: kneel Blacktyde Longship to save a character with printed STR 4 or higher from being killed or discarded. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="2"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90060" name="The Stony Shore">
+<property name="House" value="Greyjoy"/>
+<property name="Type" value="Location"/>
+<property name="Traits" value="Battlefield,,"/>
+<property name="Text" value="After a player loses a challenge by 4 or more total STR, he or she discard the top 2 cards of his or her deck. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90061" name="Wooed by Xaro">
+<property name="House" value="Targaryen"/>
+<property name="Type" value="Attachment"/>
+<property name="Traits" value="Boon,,"/>
+<property name="Text" value="Attached character gets +1 STR for each attachment in play. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90062" name="Aggo">
+<property name="House" value="Targaryen"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Dothraki,Queensguard,"/>
+<property name="Text" value="Daenerys Targaryen gets +4 STR."/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="3"/>
+<property name="Strength" value="3"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90063" name="Oznak zo Pahl">
+<property name="House" value="Targaryen"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Ally,,"/>
+<property name="Text" value="While Oznak zo Pahl is attacking, each character with STR 1 or lower controlled by the defending opponent must be declared as a defender, if able. "/>
+<property name="Keywords" value="Deadly,,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="4"/>
+<property name="Strength" value="3"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90064" name="The Titan's Bastard">
+<property name="House" value="Targaryen"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Ally,Bastard,Mercenary"/>
+<property name="Text" value="Response: after a card is placed in your dead pile, put The Titan's Bastard into play from your hand. Response: after a card is placed in an opponent's dead pile, return The Titan's Bastard to its owner's hand. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="3"/>
+<property name="Strength" value="2"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="1"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90065" name="Braavosi Pirates">
+<property name="House" value="Targaryen"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Free Cities,,"/>
+<property name="Text" value="Dominance: kneel 2 influence to choose an attachment on another character. Move that attachment to Braavosi Pirate if it is eligible."/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="2"/>
+<property name="Strength" value="1"/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="1"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90066" name="Child of the Alleys">
+<property name="House" value="Targaryen"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Qartheen,,"/>
+<property name="Text" value="Challenges: kneel Child of the Alleys to choose an attacking character. Until the end of the phase, that character gets +1 STR. If you win that challenge, choose and discard an attachment from play, if able. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value="0"/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90067" name="Dragon Partisan">
+<property name="House" value="Targaryen"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Lord,,"/>
+<property name="Text" value="Opponents cannot play attachments on Dragon Partisan. While Dragon Partisan is participating in a challenge, other participating characters with printed STR 1 or lower do not count their STR. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="3"/>
+<property name="Strength" value="2"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="1"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90068" name="Grey Worm's Strongest">
+<property name="House" value="Targaryen"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Army,Unsullied,"/>
+<property name="Text" value="Response: after Grey Worm's Strongest comes into play or leaves play, choose a non-unique character without attachments. Until the end of the phase, that character gets -4 STR and is killed if its STR is 0. "/>
+<property name="Keywords" value="No Attachments,Deadly,Renown,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="7"/>
+<property name="Strength" value="7"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90069" name="Illyrio's Guard">
+<property name="House" value="Targaryen"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Army,,"/>
+<property name="Text" value="Response: after Illyrio's Guard's STR has been raised or lowered, attachments you control cannot be discarded until the end of the phase. "/>
+<property name="Keywords" value="No Attachments,Deadly,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="5"/>
+<property name="Strength" value="5"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90070" name="Qartheen Tax Collector">
+<property name="House" value="Targaryen"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Qartheen,,"/>
+<property name="Text" value="Opponents with less than 4 total STR in their dead pile pay a +2 gold penalty on attachments. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="3"/>
+<property name="Strength" value="3"/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="1"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90071" name="The Liberated">
+<property name="House" value="Targaryen"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Army,Free Cities,"/>
+<property name="Text" value="At the beginning of the dominance phase, choose and discard an attachment from play (cannot be saved) or discard The Liberated from play (cannot be saved)."/>
+<property name="Keywords" value="No Attachments,Deadly,Doomed,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="3"/>
+<property name="Strength" value="5"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90072" name="Fields of Ghiscar">
+<property name="House" value="Targaryen"/>
+<property name="Type" value="Location"/>
+<property name="Traits" value="Battlefield,,"/>
+<property name="Text" value="Response: after Fields of Ghiscar comes into play, return all other Battlefield locations to their owners' hands. While you have 4 or more total STR in your dead pile, you may play the topmost attachment with cost 1 or greater in your discard pile as if it were in your hand."/>
+<property name="Keywords" value="Deathbound,Doomed,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="2"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90073" name="Gates of Meereen">
+<property name="House" value="Targaryen"/>
+<property name="Type" value="Location"/>
+<property name="Traits" value="Battlefield,,"/>
+<property name="Text" value="After a player loses a challenge by 4 or more total STR, he or she must choose and discard an attachment he or she controls, if able. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90074" name="Lyseni Trade Cog">
+<property name="House" value="Targaryen"/>
+<property name="Type" value="Location"/>
+<property name="Traits" value="Warship,,"/>
+<property name="Text" value="Challenges: kneel Lyseni Merchant Cog to choose a defending character. Until the end of the phase, treat that character as though its printed text box were blank. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="2"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90075" name="New Ghis">
+<property name="House" value="Targaryen"/>
+<property name="Type" value="Location"/>
+<property name="Traits" value="The East,,"/>
+<property name="Text" value="Characters with STR 6 or higher gain a power icon and renown. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="2"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90076" name="Of Oberyn's Blood">
+<property name="House" value="Martell"/>
+<property name="Type" value="Attachment"/>
+<property name="Traits" value="Title,,"/>
+<property name="Text" value="Attached character gets +6 STR during a phase in which you have lost a challenge. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90077" name="Taste for Blood">
+<property name="House" value="Martell"/>
+<property name="Type" value="Attachment"/>
+<property name="Traits" value="Boon,,"/>
+<property name="Text" value="Attached character gets +1 STR. Response: after you lose a challenge as the defender, attached character claims 1 power."/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90078" name="Edric Dayne">
+<property name="House" value="Martell"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Lord,House Dayne,"/>
+<property name="Text" value="Dominance: kneel Edric Dayne and kneel 3 influence to choose and discard a neutral character from play."/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="4"/>
+<property name="Strength" value="3"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="1"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90079" name="Harmen Uller">
+<property name="House" value="Martell"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Ally,,"/>
+<property name="Text" value="While you have 7 or more cards in your hand, Harmen Uller does not kneel to attack. "/>
+<property name="Keywords" value="Renown,,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="3"/>
+<property name="Strength" value="3"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90080" name="Dornish Confessor">
+<property name="House" value="Martell"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Septon,,"/>
+<property name="Text" value="Challenges: kneel Dornish Confessor to choose a character with fewer than 2 icons. Until the end of the phase, that character gets -2 STR. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value="1"/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90081" name="Horsemen of Starfall">
+<property name="House" value="Martell"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Army,House Dayne,"/>
+<property name="Text" value="Response: after Horsemen of Starfall's STR has been raised or lowered, draw a card. "/>
+<property name="Keywords" value="No Attachments,Deadly,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="5"/>
+<property name="Strength" value="5"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90082" name="Lord Yronwood's Spears">
+<property name="House" value="Martell"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Army,,"/>
+<property name="Text" value=""/>
+<property name="Keywords" value="No Attachments,Deadly,Doomed,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="4"/>
+<property name="Strength" value="6"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90083" name="Prince Doran's Advisor">
+<property name="House" value="Martell"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value=""/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="2"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90084" name="Sun Champion">
+<property name="House" value="Martell"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Lord,,"/>
+<property name="Text" value="While Sun Champion is participating in a challenge, other participating characters with printed STR 2 or lower do not count their STR. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="3"/>
+<property name="Strength" value="3"/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="1"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90085" name="The Viper's Bannermen">
+<property name="House" value="Martell"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Army,,"/>
+<property name="Text" value="Response: after The Viper's Bannermen comes into play or leaves play, reveal the top 2 cards of your deck, then put them into your hand. "/>
+<property name="Keywords" value="No Attachments,Deadly,Stealth,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="7"/>
+<property name="Strength" value="7"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90086" name="Tower Guard">
+<property name="House" value="Martell"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Ally,,"/>
+<property name="Text" value="Dominance: kneel 1 influence and discard Tower Guard from play (cannot be saved) to choose and kill a doomed character"/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="2"/>
+<property name="Strength" value="1"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90087" name="The Dornish Marches">
+<property name="House" value="Martell"/>
+<property name="Type" value="Location"/>
+<property name="Traits" value="Battlefield,,"/>
+<property name="Text" value="Response: after The Dornish Marches comes into play, return all other Battlefield locations to their owners' hands. While you have 4 or more total STR in your dead pile, cancel all triggered effects that would force you to discard 1 or more cards from your hand."/>
+<property name="Keywords" value="Deathbound,Doomed,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90088" name="Scars of the Boneway">
+<property name="House" value="Martell"/>
+<property name="Type" value="Location"/>
+<property name="Traits" value="Battlefield,,"/>
+<property name="Text" value="After a player loses a challenge by 4 or more total STR, he or she may draw a card. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="2"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90089" name="The Winding Wall">
+<property name="House" value="Martell"/>
+<property name="Type" value="Location"/>
+<property name="Traits" value="Sunspear,,"/>
+<property name="Text" value="Response: kneel The Winding Walls and kneel 1 influence to cancel a response just triggered. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="3"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90090" name="Threefold Gate">
+<property name="House" value="Martell"/>
+<property name="Type" value="Location"/>
+<property name="Traits" value="Sunspear,,"/>
+<property name="Text" value="Characters with STR 6 or higher gain stealth. Characters with printed STR 6 or higher cannot have their STR lowered by card effects."/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90091" name="Dragonglass Dagger">
+<property name="House" value="Neutral"/>
+<property name="Type" value="Attachment"/>
+<property name="Traits" value="Weapon,,"/>
+<property name="Text" value="Attached character gets +2 STR. Dominance: kneel attached character to choose and discard a Wight character from play (cannot be saved). "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90092" name="Savior of Westeros">
+<property name="House" value="Neutral"/>
+<property name="Type" value="Attachment"/>
+<property name="Traits" value="Boon,,"/>
+<property name="Text" value="Attached character gets +2 STR. While attached character has the highest STR in play, it gains renown and cannot be killed. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90093" name="Coldhands">
+<property name="House" value="Neutral"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="The North,,"/>
+<property name="Text" value="Coldhands cannot be killed. While there is an Others plot card revealed, Coldhands may be declared as an attacker or defender in any type of challenge. "/>
+<property name="Keywords" value="No Attachments,Deadly,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="4"/>
+<property name="Strength" value="4"/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90094" name="Cotter Pyke">
+<property name="House" value="Neutral"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Night's Watch,Bastard,"/>
+<property name="Text" value="Response: after a player reveals an Others plot card, kneel all locations and attachments controlled by that player. "/>
+<property name="Keywords" value="No Attachments,,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="2"/>
+<property name="Strength" value="2"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90095" name="Denys Mallister">
+<property name="House" value="Neutral"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Night's Watch,,"/>
+<property name="Text" value="Any phase: kneel 1 influence to choose a Night's Watch character. Until the end of the phase, that character gets +1 STR."/>
+<property name="Keywords" value="No Attachments,,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="3"/>
+<property name="Strength" value="3"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90096" name="Fell Crow">
+<property name="House" value="Neutral"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Wight,,"/>
+<property name="Text" value="Fell Crow cannot be killed. Challenges: kneel 1 influence to give Fell Crow +1 STR until the end of the phase."/>
+<property name="Keywords" value="No Attachments,Deadly,Deathbound,Doomed"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="2"/>
+<property name="Strength" value="2"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90097" name="Fickle Merchant">
+<property name="House" value="Neutral"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Ally,,"/>
+<property name="Text" value="Players must pay a +1 gold penalty to play neutral characters. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="3"/>
+<property name="Strength" value="1"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="1"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90098" name="Mance's Men">
+<property name="House" value="Neutral"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Army,Wildling,"/>
+<property name="Text" value=""/>
+<property name="Keywords" value="No Attachments,Deadly,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="6"/>
+<property name="Strength" value="6"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90099" name="Raven from the Wall">
+<property name="House" value="Neutral"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Creature,,"/>
+<property name="Text" value="Marshalling: kneel Raven from the Wall to lower the cost of the next character with printed STR 4 or higher you play this phase by 1. "/>
+<property name="Keywords" value="No Attachments,,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="0"/>
+<property name="Strength" value="1"/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90100" name="The Watch in Force">
+<property name="House" value="Neutral"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Army,Night's Watch,"/>
+<property name="Text" value="Response: after The Watch in Force comes into play or leaves play, choose and kill a Creature or Wildling character. "/>
+<property name="Keywords" value="No Attachments,Deadly,Stealth,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="7"/>
+<property name="Strength" value="7"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90101" name="Vanguard Ranger">
+<property name="House" value="Neutral"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Night's Watch,,"/>
+<property name="Text" value="Lower the cost to play Vanguard Ranger to 0 while there is at least 1 Others plot card revealed. "/>
+<property name="Keywords" value="No Attachments,,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="2"/>
+<property name="Strength" value="2"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90102" name="Ser Waymar Royce">
+<property name="House" value="Neutral"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Wight,,"/>
+<property name="Text" value="Ser Waymar Royce cannot be killed. You are considered to have an additional doomed card in your dead pile. "/>
+<property name="Keywords" value="No Attachments,Deadly,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="4"/>
+<property name="Strength" value="4"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90103" name="Small Paul">
+<property name="House" value="Neutral"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Wight,,"/>
+<property name="Text" value="Small Paul cannot be killed. Marshalling: kneel Small Paul to choose and kill a neutral character with STR 2 or lower."/>
+<property name="Keywords" value="No Attachments,Deadly,Deathbound,Doomed"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="2"/>
+<property name="Strength" value="2"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90104" name="Crazed Doomsayer">
+<property name="House" value="Neutral"/>
+<property name="Type" value="Character"/>
+<property name="Traits" value="Ally,,"/>
+<property name="Text" value="You need one additional doomed card in your dead pile to be eliminated from the game. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="2"/>
+<property name="Strength" value="2"/>
+<property name="Military" value="1"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="1"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90105" name="Fist of the First Men">
+<property name="House" value="Neutral"/>
+<property name="Type" value="Location"/>
+<property name="Traits" value="The North,Battlefield,"/>
+<property name="Text" value="While you have 4 or more total STR in your dead pile, add +4 to your total STR for each challenge in which you have at least one attacker or defender."/>
+<property name="Keywords" value="Deathbound,Doomed,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="3"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90106" name="The Land of Always Winter">
+<property name="House" value="Neutral"/>
+<property name="Type" value="Location"/>
+<property name="Traits" value="The North,,"/>
+<property name="Text" value="Response: after an Others plot card is revealed, discard The Land of Always Winter from play (cannot be saved) to choose an Others plot card in your used pile and return it to your plot deck. "/>
+<property name="Keywords" value="Deathbound,,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="3"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90107" name="Frostfang Gorge">
+<property name="House" value="Neutral"/>
+<property name="Type" value="Location"/>
+<property name="Traits" value="The North,,"/>
+<property name="Text" value="Response: kneel Frostfang Gorge to save a standing doomed location from being discarded. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90108" name="The Haunted Forest">
+<property name="House" value="Neutral"/>
+<property name="Type" value="Location"/>
+<property name="Traits" value="The North,,"/>
+<property name="Text" value="While there is at least 1 Others plot card revealed, characters with printed STR 3 or less cannot be saved. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="1"/>
+<property name="Cost" value="2"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90109" name="Skirling Pass">
+<property name="House" value="Neutral"/>
+<property name="Type" value="Location"/>
+<property name="Traits" value="The North,,"/>
+<property name="Text" value="Each character with the lowest STR in play cannot be declared as an attacker or defender. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="3"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90110" name="Against the Nameless Other">
+<property name="House" value=""/>
+<property name="Type" value="Event"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="Marshalling: if you have 4 or more total STR in your dead pile, lower the cost for you to play characters and locations this phase by 2."/>
+<property name="Keywords" value="Deathbound,Doomed,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="0"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90111" name="Azor Ahai Reborn">
+<property name="House" value=""/>
+<property name="Type" value="Event"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="Challenges: choose a non-Army character with the highest STR in play. Until the end of the phase, that character gains stealth, renown, and does not kneel to attack or defend. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value=""/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90112" name="Baratheons at the Wall">
+<property name="House" value="Baratheon"/>
+<property name="Type" value="Event"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="House Baratheon Only. Play only if there is at least one Others plot card revealed. Challenges: kneel X influence to choose and stand X Baratheon characters. Until the end of the phase, those characters gain the Night's Watch trait and deadly."/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="X"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90113" name="Dark Fate">
+<property name="House" value=""/>
+<property name="Type" value="Event"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="Any phase: choose and kill a doomed character."/>
+<property name="Keywords" value="Deathbound,Doomed,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value=""/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90114" name="Death from the Mists">
+<property name="House" value=""/>
+<property name="Type" value="Event"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="Response: after an Others plot card is revealed, each player with 8 or more cards in hand must choose and discard all but 4 cards in his or her hand. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value=""/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90115" name="Disowned">
+<property name="House" value="Lannister"/>
+<property name="Type" value="Event"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="House Lannister only. Any Phase: kneel X Battlefield locations to choose X characters. Discard all attachments and power on those characters. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value=""/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90116" name="Don't Give In!">
+<property name="House" value=""/>
+<property name="Type" value="Event"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="Challenges: choose a character. Until the end of the phase, that character gets +2 STR. Dominance: kneel 1 influence to return Don't Give In! from your dead pile to your hand. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90117" name="From Winter's Touch Returned">
+<property name="House" value=""/>
+<property name="Type" value="Event"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="Any Phase: put into play a non-Army character that was killed this phase. Then, attach From Winter''s Touch Returned to that character (counts as a Condition attachment with the text: 'Attached character gains the Wight trait. Attached character cannot be killed. You are considered to have an additional doomed card in your dead pile')."/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value=""/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90118" name="Greyjoys at the Wall">
+<property name="House" value="Greyjoy"/>
+<property name="Type" value="Event"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="House Greyjoy only. Play only if there is at least one Others plot card revealed. Response: kneel 2 influence to cancel a triggered effect. If that effect was the ability of a character with STR 3 or lower, kill that character. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="2"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90119" name="He Calls It Thinking">
+<property name="House" value="Martell"/>
+<property name="Type" value="Event"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="House Martell only. Response: cancel the effects of a response without influence cost. Then, attach He Calls It Thinking to a Martell character (counts as a Boon attachment with the text 'Attached character gets +2 STR'). "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value=""/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90120" name="I Swore It Thrice">
+<property name="House" value="Baratheon"/>
+<property name="Type" value="Event"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="House Baratheon only. Any phase: move all power from a character to a character with higher STR. Then, attach I Swore It Thrice to a Baratheon character (counts as a Boon attachment with the text 'Attached character gets +2 STR'). "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value=""/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90121" name="I'm You Writ Small">
+<property name="House" value="Lannister"/>
+<property name="Type" value="Event"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="House Lannister only. Challenges: choose a character. Until the end of the phase, that character gains deadly. Then, attach I'm You Writ Small to a Lannister character (counts as a Boon attachment with the text 'Attached character gets +2 STR'). "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value=""/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90122" name="Justice Is Served">
+<property name="House" value="Martell"/>
+<property name="Type" value="Event"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="Response: kneel a Battlefield location to cancel a triggered character or location ability. If that character or location is kneeling, discard it from play (cannot be saved). "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value=""/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90123" name="Lannisters at the Wall">
+<property name="House" value="Lannister"/>
+<property name="Type" value="Event"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="House Lannister only. Draw: if there is at least one Others plot card revealed, choose an event card from your discard pile and put it into your hand. Then, put Lannisters at the Wall on the bottom of your deck. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value=""/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90124" name="Martells at the Wall">
+<property name="House" value="Martell"/>
+<property name="Type" value="Event"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="House Martell only. Draw: each player that has an Others plot card revealed does not count income during the next marshalling phase. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value=""/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90125" name="Mother Have Mercy">
+<property name="House" value=""/>
+<property name="Type" value="Event"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="kneel 1 influence to put all non-doomed cards in all dead piles on the bottom of their owners' decks in the order of their owners' choice. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="1"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90126" name="None Can Hold the North">
+<property name="House" value="Stark"/>
+<property name="Type" value="Event"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="House Stark only. Challenges: kneel X Battlefield locations to choose and kill X attacking characters. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value=""/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90127" name="Risen from the Cold">
+<property name="House" value=""/>
+<property name="Type" value="Event"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="Any Phase: put into play a non-Army character that was killed to satisfy claim from a military challenge this phase. Then, attach Risen from the Cold to that character (counts as a Condition attachment with the text: 'Attached character gains the Wight trait, a military icon, and gets +3 STR. Attached character cannot be killed. You are considered to have an additional doomed card in your dead pile')."/>
+<property name="Keywords" value="Deathbound,Doomed,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value=""/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90128" name="Show Trial">
+<property name="House" value=""/>
+<property name="Type" value="Event"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="Any phase: stand all influence-providing locations and characters you control."/>
+<property name="Keywords" value="Deathbound,Doomed,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value=""/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90129" name="Starks at the Wall">
+<property name="House" value="Stark"/>
+<property name="Type" value="Event"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="House Stark only. Play only if there is at least one Others plot card revealed. Challenges: choose and kill an attacking character (cannot be saved) if its STR is lower than the number of defending Stark characters. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value=""/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90130" name="Take Heed, Nuncle">
+<property name="House" value="Greyjoy"/>
+<property name="Type" value="Event"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="House Greyjoy only. Any Phase: choose and discard from play a location with printed cost 0. Then, attach Take Heed, Nuncle to a Greyjoy character (counts as a Boon attachment with the text 'Attached character gets +2 STR'). "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value=""/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90131" name="Targaryens at the Wall">
+<property name="House" value="Targaryen"/>
+<property name="Type" value="Event"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="House Targaryen only. Plot: for each Others plot card revealed, each character gets -1 STR until the end of the phase and is killed if its STR is 0."/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value=""/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90132" name="The Crows Shall Feast">
+<property name="House" value="Greyjoy"/>
+<property name="Type" value="Event"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="House Greyjoy only. Dominance: kneel 2 influence to discard all Battlefield locations from play. Any phase: kneel 1 influence and discard The Crows Shall Feast from your hand to draw a card. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value=""/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90133" name="The Final Night Draws Near">
+<property name="House" value=""/>
+<property name="Type" value="Event"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="Any Phase: look at an opponent's hand. Then, you may choose one doomed card in that hand and put it into that player's dead pile."/>
+<property name="Keywords" value="Deathbound,Doomed,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value=""/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90134" name="The Long Night Falls">
+<property name="House" value=""/>
+<property name="Type" value="Event"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="Dominance: kneel 2 influence to choose a player. Until the end of the phase, that player is considered to have 1 additional doomed card in his or her dead pile. Then, discard 1 power from that player's House for each doomed card in his or her dead pile. Limit 1 per phase. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value="2"/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90135" name="The Power of Blood">
+<property name="House" value="Baratheon"/>
+<property name="Type" value="Event"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="House Baratheon only. Response: after you win a power challenge, kneel X Battlefield locations to choose a character. That character claims X power and stands if it is kneeling."/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value=""/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90136" name="These are my Children">
+<property name="House" value="Targaryen"/>
+<property name="Type" value="Event"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="House Targaryen only. Challenges: put a character with printed cost 1 or lower into play from your hand. Then, attach They Are My Children to a Targaryen character (counts as a Boon attachment with the text 'Attached character gets +2 STR'). "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value=""/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90137" name="They Shall Not Cross">
+<property name="House" value="Stark"/>
+<property name="Type" value="Event"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="House Stark only. Response: save a location from being discarded. Then, attach They Shall Not Cross to a Stark character (counts as a Boon attachment with the text 'Attached character gets +2 STR'). "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value=""/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90138" name="Through the Wall">
+<property name="House" value=""/>
+<property name="Type" value="Event"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="Any phase: until the end of the phase, each The North location gains 'Response: kneel this card to save a character from being killed.' "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value=""/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90139" name="That's What Kings are For">
+<property name="House" value="Targaryen"/>
+<property name="Type" value="Event"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="House Targaryen only. Challenges: kneel X Battlefield locations to choose X characters. Those characters cannot be declared as defenders this phase. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value=""/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="0"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90140" name="Chill Touch of Death">
+<property name="House" value=""/>
+<property name="Type" value="Plot"/>
+<property name="Traits" value="Others,,"/>
+<property name="Text" value="When revealed, each player with at least 4 total STR in his or her dead pile chooses and kills a character. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value=""/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="3"/>
+<property name="PlotInitiative" value="4"/>
+<property name="PlotClaim" value="1"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90141" name="Feast or Famine">
+<property name="House" value=""/>
+<property name="Type" value="Plot"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="When you count income, you may choose to add +6 gold to your income. If you do, you cannot initiate challenges this round. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value=""/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="0"/>
+<property name="PlotInitiative" value="5"/>
+<property name="PlotClaim" value="2"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90142" name="Fleeing to the Wall">
+<property name="House" value=""/>
+<property name="Type" value="Plot"/>
+<property name="Traits" value="Others,,"/>
+<property name="Text" value="Others. When revealed, each player chooses up to 3 locations. All locations not chosen are discarded from play (cannot be saved)."/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value=""/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="3"/>
+<property name="PlotInitiative" value="3"/>
+<property name="PlotClaim" value="1"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90143" name="Muster the Realm!">
+<property name="House" value=""/>
+<property name="Type" value="Plot"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="Any player who controls no Army characters cannot initiate military challenges this round. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value=""/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="5"/>
+<property name="PlotInitiative" value="2"/>
+<property name="PlotClaim" value="1"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90144" name="Sacrificed to the Others">
+<property name="House" value=""/>
+<property name="Type" value="Plot"/>
+<property name="Traits" value="Others,,"/>
+<property name="Text" value="When revealed, if you have at least 1 Others card in your used pile, choose and discard a location or attachment from play. "/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value=""/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="3"/>
+<property name="PlotInitiative" value="0"/>
+<property name="PlotClaim" value="1"/>
+</card>
+<card id="1dfb3da7-2390-481c-a5de-917b03e90145" name="The First Snow of Winter">
+<property name="House" value=""/>
+<property name="Type" value="Plot"/>
+<property name="Traits" value=",,"/>
+<property name="Text" value="When revealed, discard from play all characters with printed strength 2 or lower (cannot be saved)."/>
+<property name="Keywords" value=",,,"/>
+<property name="Unique" value="0"/>
+<property name="Cost" value=""/>
+<property name="Strength" value=""/>
+<property name="Military" value="0"/>
+<property name="Intrigue" value="0"/>
+<property name="Power" value="0"/>
+<property name="GoldIncome" value="0"/>
+<property name="Influence" value="0"/>
+<property name="Initiative" value="0"/>
+<property name="PlotGoldIncome" value="3"/>
+<property name="PlotInitiative" value="1"/>
+<property name="PlotClaim" value="1"/>
+</card>
+</cards>
+</set>

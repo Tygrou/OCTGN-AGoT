@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="00_Markers" id="01ecf94f-c408-4e43-8984-211fbdc25000" gameId="a12af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="3.1.0" version="3.0">
+	<markers>
+		<marker id="01ecf94f-c408-4e43-8984-211fbdc25001" name="gold" />
+		<marker id="01ecf94f-c408-4e43-8984-211fbdc25002" name="power" />
+		<marker id="01ecf94f-c408-4e43-8984-211fbdc25003" name="STR_Up" />
+		<marker id="01ecf94f-c408-4e43-8984-211fbdc25004" name="Burn" />
+	</markers>
+	
+	<cards>
+		<card id="a13af4e8-be4b-4cda-a6b6-534f97338097" name="House Stark">
+			<property name="House" value="Stark" />
+			<property name="Type" value="House Card" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Winter is Coming.&#10;&#10;Days of Ice and Fire 2011" />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="" />
+			<property name="Cost" value="" />
+			<property name="Strength" value="" />
+			<property name="Military" value="" />
+			<property name="Intrigue" value="" />
+			<property name="Power" value="" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="" />
+			<property name="Influence" value="" />
+			<property name="Initiative" value="" />
+			<property name="PlotGoldIncome" value="" />
+			<property name="PlotInitiative" value="" />
+			<property name="PlotClaim" value="" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" />
+		</card>
+		<card id="a13af4e8-be4b-4cda-a6b6-534f97338093" name="House Baratheon">
+			<property name="House" value="Baratheon" />
+			<property name="Type" value="House Card" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Ours is the Fury.&#10;&#10;Days of Ice and Fire 2011" />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="" />
+			<property name="Cost" value="" />
+			<property name="Strength" value="" />
+			<property name="Military" value="" />
+			<property name="Intrigue" value="" />
+			<property name="Power" value="" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="" />
+			<property name="Influence" value="" />
+			<property name="Initiative" value="" />
+			<property name="PlotGoldIncome" value="" />
+			<property name="PlotInitiative" value="" />
+			<property name="PlotClaim" value="" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" />
+		</card>
+		<card id="a13af4e8-be4b-4cda-a6b6-534f97338098" name="House Targaryen">
+			<property name="House" value="Targaryen" />
+			<property name="Type" value="House Card" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Fire and Blood.&#10;&#10;Days of Ice and Fire 2011" />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="" />
+			<property name="Cost" value="" />
+			<property name="Strength" value="" />
+			<property name="Military" value="" />
+			<property name="Intrigue" value="" />
+			<property name="Power" value="" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="" />
+			<property name="Influence" value="" />
+			<property name="Initiative" value="" />
+			<property name="PlotGoldIncome" value="" />
+			<property name="PlotInitiative" value="" />
+			<property name="PlotClaim" value="" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" />
+		</card>
+		<card id="a13af4e8-be4b-4cda-a6b6-534f97338094" name="House Greyjoy">
+			<property name="House" value="Greyjoy" />
+			<property name="Type" value="House Card" />
+			<property name="Traits" value="" />
+			<property name="Text" value="We Do Not Sow.&#10;&#10;Days of Ice and Fire 2011" />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="" />
+			<property name="Cost" value="" />
+			<property name="Strength" value="" />
+			<property name="Military" value="" />
+			<property name="Intrigue" value="" />
+			<property name="Power" value="" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="" />
+			<property name="Influence" value="" />
+			<property name="Initiative" value="" />
+			<property name="PlotGoldIncome" value="" />
+			<property name="PlotInitiative" value="" />
+			<property name="PlotClaim" value="" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" />
+		</card>
+		<card id="a13af4e8-be4b-4cda-a6b6-534f97338095" name="House Lannister">
+			<property name="House" value="Lannister" />
+			<property name="Type" value="House Card" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Hear Me Roar.&#10;&#10;Days of Ice and Fire 2011" />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="" />
+			<property name="Cost" value="" />
+			<property name="Strength" value="" />
+			<property name="Military" value="" />
+			<property name="Intrigue" value="" />
+			<property name="Power" value="" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="" />
+			<property name="Influence" value="" />
+			<property name="Initiative" value="" />
+			<property name="PlotGoldIncome" value="" />
+			<property name="PlotInitiative" value="" />
+			<property name="PlotClaim" value="" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" />
+		</card>
+		<card id="a13af4e8-be4b-4cda-a6b6-534f97338096" name="House Martell">
+			<property name="House" value="Martell" />
+			<property name="Type" value="House Card" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Unbowed, Unbent, Unbroken.&#10;&#10;Days of Ice and Fire 2011" />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="" />
+			<property name="Cost" value="" />
+			<property name="Strength" value="" />
+			<property name="Military" value="" />
+			<property name="Intrigue" value="" />
+			<property name="Power" value="" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="" />
+			<property name="Influence" value="" />
+			<property name="Initiative" value="" />
+			<property name="PlotGoldIncome" value="" />
+			<property name="PlotInitiative" value="" />
+			<property name="PlotClaim" value="" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" />
+		</card>
+		
+		<card id="a13af4e8-be4b-4cda-a6b6-534f97338090" name="House Martell">
+			<property name="House" value="Martell" />
+			<property name="Type" value="House Card" />
+			<property name="Traits" value="" />
+			<property name="Text" value="2011 Regionals" />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="" />
+			<property name="Cost" value="" />
+			<property name="Strength" value="" />
+			<property name="Military" value="" />
+			<property name="Intrigue" value="" />
+			<property name="Power" value="" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="" />
+			<property name="Influence" value="" />
+			<property name="Initiative" value="" />
+			<property name="PlotGoldIncome" value="" />
+			<property name="PlotInitiative" value="" />
+			<property name="PlotClaim" value="" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" />
+		</card>
+		<card id="a13af4e8-be4b-4cda-a6b6-534f97338091" name="House Stark">
+			<property name="House" value="Stark" />
+			<property name="Type" value="House Card" />
+			<property name="Traits" value="" />
+			<property name="Text" value="2011 Regionals" />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="" />
+			<property name="Cost" value="" />
+			<property name="Strength" value="" />
+			<property name="Military" value="" />
+			<property name="Intrigue" value="" />
+			<property name="Power" value="" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="" />
+			<property name="Influence" value="" />
+			<property name="Initiative" value="" />
+			<property name="PlotGoldIncome" value="" />
+			<property name="PlotInitiative" value="" />
+			<property name="PlotClaim" value="" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" />
+		</card>
+		<card id="a13af4e8-be4b-4cda-a6b6-534f97338087" name="House Baratheon">
+			<property name="House" value="Baratheon" />
+			<property name="Type" value="House Card" />
+			<property name="Traits" value="" />
+			<property name="Text" value="2011 Regionals" />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="" />
+			<property name="Cost" value="" />
+			<property name="Strength" value="" />
+			<property name="Military" value="" />
+			<property name="Intrigue" value="" />
+			<property name="Power" value="" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="" />
+			<property name="Influence" value="" />
+			<property name="Initiative" value="" />
+			<property name="PlotGoldIncome" value="" />
+			<property name="PlotInitiative" value="" />
+			<property name="PlotClaim" value="" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" />
+		</card>
+		<card id="a13af4e8-be4b-4cda-a6b6-534f97338092" name="House Targaryen">
+			<property name="House" value="Targaryen" />
+			<property name="Type" value="House Card" />
+			<property name="Traits" value="" />
+			<property name="Text" value="2011 Regionals" />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="" />
+			<property name="Cost" value="" />
+			<property name="Strength" value="" />
+			<property name="Military" value="" />
+			<property name="Intrigue" value="" />
+			<property name="Power" value="" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="" />
+			<property name="Influence" value="" />
+			<property name="Initiative" value="" />
+			<property name="PlotGoldIncome" value="" />
+			<property name="PlotInitiative" value="" />
+			<property name="PlotClaim" value="" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" />
+		</card>
+		<card id="a13af4e8-be4b-4cda-a6b6-534f97338088" name="House Greyjoy">
+			<property name="House" value="Greyjoy" />
+			<property name="Type" value="House Card" />
+			<property name="Traits" value="" />
+			<property name="Text" value="2011 Regionals" />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="" />
+			<property name="Cost" value="" />
+			<property name="Strength" value="" />
+			<property name="Military" value="" />
+			<property name="Intrigue" value="" />
+			<property name="Power" value="" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="" />
+			<property name="Influence" value="" />
+			<property name="Initiative" value="" />
+			<property name="PlotGoldIncome" value="" />
+			<property name="PlotInitiative" value="" />
+			<property name="PlotClaim" value="" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" />
+		</card>
+		<card id="a13af4e8-be4b-4cda-a6b6-534f97338089" name="House Lannister">
+			<property name="House" value="Lannister" />
+			<property name="Type" value="House Card" />
+			<property name="Traits" value="" />
+			<property name="Text" value="2011 Regionals" />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="" />
+			<property name="Cost" value="" />
+			<property name="Strength" value="" />
+			<property name="Military" value="" />
+			<property name="Intrigue" value="" />
+			<property name="Power" value="" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="" />
+			<property name="Influence" value="" />
+			<property name="Initiative" value="" />
+			<property name="PlotGoldIncome" value="" />
+			<property name="PlotInitiative" value="" />
+			<property name="PlotClaim" value="" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" />
+		</card>
+	</cards>
+</set>

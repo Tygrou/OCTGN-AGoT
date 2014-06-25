@@ -1,0 +1,1325 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="02_Kings of the Sea" id="a12af4e8-be4b-4cda-a6b6-534f970d1000" gameId="a12af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="3.1.0" version="3.0">
+	<cards>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1007" name="Balon Greyjoy">
+			<property name="House" value="Greyjoy." />
+			<property name="Type" value="Character" />
+			<property name="Traits" value="Lord. King. Ironborn." />
+			<property name="Text" value="If Balon Greyjoy is the only King character in play, characters with lower STR than his cannot be declared as defenders while he is attacking." />
+			<property name="Keywords" value="Renown." />
+			<property name="Unique" value="Yes" />
+			<property name="Cost" value="4" />
+			<property name="Strength" value="3" />
+			<property name="Military" value="1" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="1" />
+			<property name="Crest" value="Noble." />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1008" name="Asha Greyjoy">
+			<property name="House" value="Greyjoy." />
+			<property name="Type" value="Character" />
+			<property name="Traits" value="Lady. Ironborn." />
+			<property name="Text" value="Asha Greyjoy cannot be saved." />
+			<property name="Keywords" value="Renown." />
+			<property name="Unique" value="Yes" />
+			<property name="Cost" value="3" />
+			<property name="Strength" value="3" />
+			<property name="Military" value="1" />
+			<property name="Intrigue" value="1" />
+			<property name="Power" value="1" />
+			<property name="Crest" value="War." />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1009" name="Theon Greyjoy">
+			<property name="House" value="Greyjoy." />
+			<property name="Type" value="Character" />
+			<property name="Traits" value="Lord. Ironborn." />
+			<property name="Text" value="Any Phase: Pay 1 gold to choose and kneel a location (limit once per round)." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="Yes" />
+			<property name="Cost" value="2" />
+			<property name="Strength" value="2" />
+			<property name="Military" value="1" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="1" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1010" name="Euron Crow's Eye">
+			<property name="House" value="Greyjoy." />
+			<property name="Type" value="Character" />
+			<property name="Traits" value="Lord. Ironborn." />
+			<property name="Text" value="While Euron Crow's Eye is standing, Greyjoy characters you control gain stealth." />
+			<property name="Keywords" value="Immune to events." />
+			<property name="Unique" value="Yes" />
+			<property name="Cost" value="5" />
+			<property name="Strength" value="4" />
+			<property name="Military" value="1" />
+			<property name="Intrigue" value="1" />
+			<property name="Power" value="1" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1011" name="Victarion Greyjoy">
+			<property name="House" value="Greyjoy." />
+			<property name="Type" value="Character" />
+			<property name="Traits" value="Lord. Ironborn." />
+			<property name="Text" value="Response: After you reveal a plot card, Victarion Greyjoy claims 1 power if you control a Warship location. (Limit once per phase.)" />
+			<property name="Keywords" value="Intimidate." />
+			<property name="Unique" value="Yes" />
+			<property name="Cost" value="4" />
+			<property name="Strength" value="3" />
+			<property name="Military" value="1" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="1" />
+			<property name="Crest" value="War." />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1012" name="Aeron Damphair">
+			<property name="House" value="Greyjoy." />
+			<property name="Type" value="Character" />
+			<property name="Traits" value="Lord. Ironborn." />
+			<property name="Text" value="If Aeron Damphair would be killed, instead search your deck for a non-unique Holy character with cost 3 or lower, put it into play, shuffle your deck and put Aeron Damphair on the bottom of your deck." />
+			<property name="Keywords" value="Stealth." />
+			<property name="Unique" value="Yes" />
+			<property name="Cost" value="3" />
+			<property name="Strength" value="3" />
+			<property name="Military" value="0" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="1" />
+			<property name="Crest" value="Holy." />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1013" name="Maester Wendamyr">
+			<property name="House" value="Greyjoy." />
+			<property name="Type" value="Character" />
+			<property name="Traits" value="Maester." />
+			<property name="Text" value="Response: Kneel Maester Wendamyr to save a Greyjoy character from being killed or discarded. Then, you may kneel 2 influence or kneel a Learned character to stand that character." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="Yes" />
+			<property name="Cost" value="2" />
+			<property name="Strength" value="1" />
+			<property name="Military" value="0" />
+			<property name="Intrigue" value="1" />
+			<property name="Power" value="0" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1014" name="Wex Pyke">
+			<property name="House" value="Greyjoy." />
+			<property name="Type" value="Character" />
+			<property name="Traits" value="Ally. Ironborn." />
+			<property name="Text" value="While Wex Pyke is attacking, characters without crests cannot be declared as defenders." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="Yes" />
+			<property name="Cost" value="2" />
+			<property name="Strength" value="1" />
+			<property name="Military" value="1" />
+			<property name="Intrigue" value="1" />
+			<property name="Power" value="0" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1015" name="Sea Raiders">
+			<property name="House" value="Greyjoy." />
+			<property name="Type" value="Character" />
+			<property name="Traits" value="Army. Ironborn." />
+			<property name="Text" value="" />
+			<property name="Keywords" value="Limited. No attachments." />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="2" />
+			<property name="Strength" value="3" />
+			<property name="Military" value="1" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="1" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1016" name="Stowaway">
+			<property name="House" value="Greyjoy." />
+			<property name="Type" value="Character" />
+			<property name="Traits" value="Ally." />
+			<property name="Text" value="Challenges: Kneel Stowaway and discard the top card of your deck to choose an Ironborn character. Until the end of the phase, that character gains an Intrigue icon." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="1" />
+			<property name="Strength" value="1" />
+			<property name="Military" value="0" />
+			<property name="Intrigue" value="1" />
+			<property name="Power" value="0" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1017" name="Priest of the Drowned God">
+			<property name="House" value="Greyjoy." />
+			<property name="Type" value="Character" />
+			<property name="Traits" value="Ironborn." />
+			<property name="Text" value="Challenges: Discard the top card of your deck to give a Holy character +1 STR until the end of the phase. (Limit twice per phase.)" />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="3" />
+			<property name="Strength" value="3" />
+			<property name="Military" value="0" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="1" />
+			<property name="Crest" value="Holy." />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1018" name="Drumbeater">
+			<property name="House" value="Greyjoy." />
+			<property name="Type" value="Character" />
+			<property name="Traits" value="Ironborn." />
+			<property name="Text" value="Challenges: During a challenge in which you are the attacker, kneel Drumbeater to have that challenge considered unopposed if you win by 4 or more total STR." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="1" />
+			<property name="Strength" value="1" />
+			<property name="Military" value="1" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="0" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1019" name="Drowned Disciple">
+			<property name="House" value="Greyjoy." />
+			<property name="Type" value="Character" />
+			<property name="Traits" value="Ironborn." />
+			<property name="Text" value="If Drowned Disciple would be killed, instead put it on the bottom of your deck. Then, each opponent discards the top 3 cards of his or her deck." />
+			<property name="Keywords" value="Stealth." />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="3" />
+			<property name="Strength" value="1" />
+			<property name="Military" value="0" />
+			<property name="Intrigue" value="1" />
+			<property name="Power" value="1" />
+			<property name="Crest" value="Holy." />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1020" name="Dagmer Cleftjaw">
+			<property name="House" value="Greyjoy." />
+			<property name="Type" value="Character" />
+			<property name="Traits" value="Lord. Ironborn." />
+			<property name="Text" value="Each Warship location you control counts as 2 STR during the dominance phase." />
+			<property name="Keywords" value="Deadly." />
+			<property name="Unique" value="Yes" />
+			<property name="Cost" value="3" />
+			<property name="Strength" value="3" />
+			<property name="Military" value="1" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="1" />
+			<property name="Crest" value="War." />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1021" name="Ten Towers Honor Guard">
+			<property name="House" value="Greyjoy." />
+			<property name="Type" value="Character" />
+			<property name="Traits" value="Army. Ironborn." />
+			<property name="Text" value="Challenges: You may put Ten Towers Honor Guard into play from your hand, under the control of any opponent. After that opponent wins a challenge in which Ten Towers Honor Guard participated, take control of Ten Towers Honor Guard." />
+			<property name="Keywords" value="House Greyjoy only. No attachments." />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="4" />
+			<property name="Strength" value="4" />
+			<property name="Military" value="1" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="1" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1022" name="Scurvy Cutthroat">
+			<property name="House" value="Greyjoy." />
+			<property name="Type" value="Character" />
+			<property name="Traits" value="Ally." />
+			<property name="Text" value="Response: After an opponent plays an attachment card, discard Scurvy Cutthroat from play (cannot be saved) to discard that attachment from play." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="1" />
+			<property name="Strength" value="1" />
+			<property name="Military" value="1" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="0" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1023" name="Assault of the Kraken">
+			<property name="House" value="Greyjoy." />
+			<property name="Type" value="Event" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Response: After you win an unopposed challenge, you may initiate an additional challenge of the same type this phase (this additional challenge must be the next challenge you initiate). If that additional challenge is opposed, neither player wins the challenge." />
+			<property name="Keywords" value="House Greyjoy only. " />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="" />
+			<property name="Strength" value="" />
+			<property name="Military" value="0" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="0" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1024" name="Kingsmoot">
+			<property name="House" value="Greyjoy." />
+			<property name="Type" value="Event" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Response: After you win dominance, kneel 2 standing Ironborn characters to choose and stand a Greyjoy Lord or Lady character. Then, that character claims 2 power and you draw 2 cards." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="" />
+			<property name="Strength" value="" />
+			<property name="Military" value="0" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="0" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1025" name="Seasick">
+			<property name="House" value="Greyjoy." />
+			<property name="Type" value="Event" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Response: Cancel a triggered effect unless its controller kneels 1 influence." />
+			<property name="Keywords" value="House Greyjoy only. " />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="" />
+			<property name="Strength" value="" />
+			<property name="Military" value="0" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="0" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1026" name="Risen from the Sea">
+			<property name="House" value="Greyjoy." />
+			<property name="Type" value="Event" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Response: Save a Greyjoy character from being killed. Then attach this card to the saved character (counts as a Condition attachment with the text ';Attached character gets +1 STR.';)" />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="" />
+			<property name="Strength" value="" />
+			<property name="Military" value="0" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="0" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1027" name="Support of Harlaw">
+			<property name="House" value="Greyjoy." />
+			<property name="Type" value="Attachment" />
+			<property name="Traits" value="Condition." />
+			<property name="Text" value="Attached character gains stealth.  Response: After you win an unopposed challenge, stand attached character." />
+			<property name="Keywords" value="Greyjoy character only." />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="2" />
+			<property name="Strength" value="" />
+			<property name="Military" value="0" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="0" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1028" name="Veteran Marauder">
+			<property name="House" value="Greyjoy." />
+			<property name="Type" value="Attachment" />
+			<property name="Traits" value="Skill. Condition." />
+			<property name="Text" value="Attached character gains Stealth.  Response: After you win an unopposed challenge in which attached character participated, attach Veteran Marauder to an opponent's location. Treat that location as if its printed text box were blank while Veteran Marauder is attached." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="1" />
+			<property name="Strength" value="" />
+			<property name="Military" value="0" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="0" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1029" name="Iron Island Fiefdoms">
+			<property name="House" value="Greyjoy." />
+			<property name="Type" value="Location" />
+			<property name="Traits" value="Iron Islands." />
+			<property name="Text" value="Marshalling: Kneel Iron Island Fiefdoms to lower the cost of the next Greyjoy card you play this phase by 1." />
+			<property name="Keywords" value="Limited." />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="1" />
+			<property name="Strength" value="" />
+			<property name="Military" value="0" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="0" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="1" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1030" name="Aeron's Chambers">
+			<property name="House" value="Greyjoy." />
+			<property name="Type" value="Location" />
+			<property name="Traits" value="Iron Islands." />
+			<property name="Text" value="You may choose to play Aeron's Chambers as an attachment to your House card." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="Yes" />
+			<property name="Cost" value="1" />
+			<property name="Strength" value="" />
+			<property name="Military" value="0" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="0" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="1" />
+			<property name="Influence" value="1" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1031" name="Sunset Sea">
+			<property name="House" value="Lannister. Greyjoy." />
+			<property name="Type" value="Location" />
+			<property name="Traits" value="Westeros." />
+			<property name="Text" value="Marshalling: Discard Sunset Sea from play to reduce the cost of the next HL or Greyjoy character you play this phase by 2." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="0" />
+			<property name="Strength" value="" />
+			<property name="Military" value="0" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="0" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="1" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1032" name="Bloody Keep">
+			<property name="House" value="Greyjoy." />
+			<property name="Type" value="Location" />
+			<property name="Traits" value="Iron Islands." />
+			<property name="Text" value="Marshalling: Kneel to lower the cost of the next Greyjoy character you play this phase by 2." />
+			<property name="Keywords" value="Limited." />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="2" />
+			<property name="Strength" value="" />
+			<property name="Military" value="0" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="0" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1033" name="The Iron Mines">
+			<property name="House" value="Greyjoy." />
+			<property name="Type" value="Location" />
+			<property name="Traits" value="Iron Islands." />
+			<property name="Text" value="Response: Kneel and discard from play (cannot be saved) to save a character from being killed." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="0" />
+			<property name="Strength" value="" />
+			<property name="Military" value="0" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="0" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1034" name="Longship Iron Victory">
+			<property name="House" value="Greyjoy." />
+			<property name="Type" value="Location" />
+			<property name="Traits" value="Warship." />
+			<property name="Text" value="At the end of the Marshalling phase, kneel each Warship location you control if you do not control a Greyjoy character.  Challenges: Kneel Longship Iron Victory to choose a participating character. Until the end of the challenge, that character gets +2 STR. If you win the challenge, draw a card." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="Yes" />
+			<property name="Cost" value="2" />
+			<property name="Strength" value="" />
+			<property name="Military" value="0" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="0" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1035" name="Scouting Vessel">
+			<property name="House" value="Greyjoy." />
+			<property name="Type" value="Location" />
+			<property name="Traits" value="Warship." />
+			<property name="Text" value="Challenges: Kneel Scouting Vessel to choose a defending character. For the duration of the challenge, that character does not count its STR." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="2" />
+			<property name="Strength" value="" />
+			<property name="Military" value="0" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="0" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1036" name="Bay of Ice">
+			<property name="House" value="Stark. Lannister. Baratheon. Greyjoy. Martell. Targaryen." />
+			<property name="Type" value="Location" />
+			<property name="Traits" value="Kingdom." />
+			<property name="Text" value="After a player wins initiative, that player kneels all cards named Bay of Ice, then draws a card." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="0" />
+			<property name="Strength" value="" />
+			<property name="Military" value="0" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="0" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="1" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1037" name="Gatehouse">
+			<property name="House" value="Greyjoy." />
+			<property name="Type" value="Location" />
+			<property name="Traits" value="Iron Islands." />
+			<property name="Text" value="" />
+			<property name="Keywords" value="Limited." />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="0" />
+			<property name="Strength" value="" />
+			<property name="Military" value="0" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="0" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="1" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1038" name="Kingdom of Shadows">
+			<property name="House" value="Stark. Lannister. Baratheon. Greyjoy. Martell. Targaryen." />
+			<property name="Type" value="Location" />
+			<property name="Traits" value="Kingdom." />
+			<property name="Text" value="After a player wins an Intrigue challenge, that player kneels all copies of Kingdom of Shadows to choose and stand a card with the Shadow crest." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="1" />
+			<property name="Strength" value="" />
+			<property name="Military" value="0" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="0" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="1" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1039" name="Robb Stark">
+			<property name="House" value="Stark." />
+			<property name="Type" value="Character" />
+			<property name="Traits" value="Lord. King." />
+			<property name="Text" value="If Robb Stark is the only King character in play, he gains: ';Any Phase: Kneel Robb Stark to reduce the cost of the next HS army you play this phase to 0.';" />
+			<property name="Keywords" value="Renown." />
+			<property name="Unique" value="Yes" />
+			<property name="Cost" value="4" />
+			<property name="Strength" value="3" />
+			<property name="Military" value="1" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="1" />
+			<property name="Crest" value="Noble." />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1040" name="Joffrey Baratheon">
+			<property name="House" value="Lannister." />
+			<property name="Type" value="Character" />
+			<property name="Traits" value="Lord. King." />
+			<property name="Text" value="If Joffrey Baratheon is the only King character in play, he gets +1 STR for each gold token on him.  Response: After an opponent pays gold to marshall a character, put that gold on Joffrey Baratheon. (Limit once per round.)" />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="Yes" />
+			<property name="Cost" value="2" />
+			<property name="Strength" value="1" />
+			<property name="Military" value="1" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="1" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1041" name="Robert Baratheon">
+			<property name="House" value="Baratheon." />
+			<property name="Type" value="Character" />
+			<property name="Traits" value="Lord. King." />
+			<property name="Text" value="If Robert Baratheon is the only King character in play, he gains: ';Any Phase: Kneel Robert Baratheon to play an ';Any Phase'; event card from your discard pile as if you just played it from your hand. Then, shuffle that event card back into your deck.';" />
+			<property name="Keywords" value="Renown." />
+			<property name="Unique" value="Yes" />
+			<property name="Cost" value="4" />
+			<property name="Strength" value="3" />
+			<property name="Military" value="1" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="1" />
+			<property name="Crest" value="Noble." />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1042" name="Viserys Targaryen">
+			<property name="House" value="Targaryen." />
+			<property name="Type" value="Character" />
+			<property name="Traits" value="Lord. King." />
+			<property name="Text" value="If Viserys Targaryen is the only King character in play, he gains: ';Each attachment on Viserys Targaryen reduces the amount of power you need to win the game by 1.';" />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="Yes" />
+			<property name="Cost" value="1" />
+			<property name="Strength" value="1" />
+			<property name="Military" value="0" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="1" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1043" name="Myrcella Lannister">
+			<property name="House" value="Martell." />
+			<property name="Type" value="Character" />
+			<property name="Traits" value="Lady. Queen." />
+			<property name="Text" value="If Myrcella Lannister is the only Queen character in play, she gains: ';Any Phase: Kneel Myrcella Lannister to choose a Knight character. Until the end of the phase, that character gains an Intrigue icon and stealth.';" />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="Yes" />
+			<property name="Cost" value="1" />
+			<property name="Strength" value="1" />
+			<property name="Military" value="0" />
+			<property name="Intrigue" value="1" />
+			<property name="Power" value="1" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1044" name="The Price of War">
+			<property name="House" value="Neutral." />
+			<property name="Type" value="Event" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Response: After you win a Military challenge in which you control at least 1 attacking War character, choose and discard from play up to 2 non-limited locations controlled by the losing opponent. (Limit 1 per round.)" />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="" />
+			<property name="Strength" value="" />
+			<property name="Military" value="0" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="0" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1045" name="Confession">
+			<property name="House" value="Neutral." />
+			<property name="Type" value="Event" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Any Phase: Kneel 3 influence or kneel a Holy character to look at an opponent's hand. Then, discard 1 non-limited card from that hand." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="" />
+			<property name="Strength" value="" />
+			<property name="Military" value="0" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="0" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1046" name="Seafarer's Bow">
+			<property name="House" value="Neutral." />
+			<property name="Type" value="Attachment" />
+			<property name="Traits" value="Weapon." />
+			<property name="Text" value="Challenges: Kneel attached character to choose a participating character. Until the end of the phase, that character gets +2 STR. (Limit once per phase.)  Challenges: Kneel Seafarer's Bow to choose a participating character. Until the end of the phase, that character gets +2 STR. (Limit once per phase.)" />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="2" />
+			<property name="Strength" value="" />
+			<property name="Military" value="0" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="0" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1047" name="Assertion of Might">
+			<property name="House" value="Greyjoy." />
+			<property name="Type" value="Event" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Response: After you win an unopposed challenge, kneel 4 influence or kneel a War character to claim 3 power for your House. (Limit 1 per phase.)" />
+			<property name="Keywords" value="House Greyjoy only. " />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="" />
+			<property name="Strength" value="" />
+			<property name="Military" value="0" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="0" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1048" name="Shivering Sea">
+			<property name="House" value="Neutral." />
+			<property name="Type" value="Location" />
+			<property name="Traits" value="Kingdom." />
+			<property name="Text" value="Marshalling: Discard Shivering Sea from play to reduce the cost of the next neutral character you play this phase by 1." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="0" />
+			<property name="Strength" value="" />
+			<property name="Military" value="0" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="0" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="1" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1049" name="Shadowcat">
+			<property name="House" value="Neutral." />
+			<property name="Type" value="Character" />
+			<property name="Traits" value="Creature." />
+			<property name="Text" value="" />
+			<property name="Keywords" value="Stealth. No attachments." />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="0" />
+			<property name="Strength" value="2" />
+			<property name="Military" value="1" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="0" />
+			<property name="Crest" value="Shadow." />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1050" name="Silent Sisters">
+			<property name="House" value="Neutral." />
+			<property name="Type" value="Character" />
+			<property name="Traits" value="Ally." />
+			<property name="Text" value="Silent Sisters gets +1 STR for each character in your dead pile." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="0" />
+			<property name="Strength" value="1" />
+			<property name="Military" value="0" />
+			<property name="Intrigue" value="1" />
+			<property name="Power" value="1" />
+			<property name="Crest" value="Shadow." />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1051" name="Randyl Tarly">
+			<property name="House" value="Neutral." />
+			<property name="Type" value="Character" />
+			<property name="Traits" value="Lord. House Tarly." />
+			<property name="Text" value=" War characters you control get +1 STR." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="Yes" />
+			<property name="Cost" value="3" />
+			<property name="Strength" value="3" />
+			<property name="Military" value="1" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="1" />
+			<property name="Crest" value="War." />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1052" name="Jack of all Trades">
+			<property name="House" value="Neutral." />
+			<property name="Type" value="Character" />
+			<property name="Traits" value="Ally." />
+			<property name="Text" value="Any Phase: Kneel 1 influence to give Jack of All Trades (choose one) a War , a Noble , a Learned , or a Holy crest until the end of the phase." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="2" />
+			<property name="Strength" value="2" />
+			<property name="Military" value="1" />
+			<property name="Intrigue" value="1" />
+			<property name="Power" value="1" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1053" name="Godswood Attendant">
+			<property name="House" value="Neutral." />
+			<property name="Type" value="Character" />
+			<property name="Traits" value="Ally." />
+			<property name="Text" value="Response: After you win a challenge in which Godswood Attendant participated, look at the top card of any player's deck. Then, you may discard that card or put it back on top of its owner's deck." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="3" />
+			<property name="Strength" value="3" />
+			<property name="Military" value="0" />
+			<property name="Intrigue" value="1" />
+			<property name="Power" value="1" />
+			<property name="Crest" value="Holy." />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="0" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="0" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1054" name="After the Mummer's Ford">
+			<property name="House" value="Neutral." />
+			<property name="Type" value="Plot" />
+			<property name="Traits" value="Military Battle." />
+			<property name="Text" value="Each player may initiate an additional Military challenge this round." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="3" />
+			<property name="Strength" value="3" />
+			<property name="Military" value="0" />
+			<property name="Intrigue" value="0" />
+			<property name="Power" value="1" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="0" />
+			<property name="Influence" value="0" />
+			<property name="Initiative" value="0" />
+			<property name="PlotGoldIncome" value="3" />
+			<property name="PlotInitiative" value="5" />
+			<property name="PlotClaim" value="1" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1055" name="Siege of Riverrun">
+			<property name="House" value="Neutral." />
+			<property name="Type" value="Plot" />
+			<property name="Traits" value="Military Battle." />
+			<property name="Text" value="You cannot declare Intrigue challenges." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="" />
+			<property name="Strength" value="" />
+			<property name="Military" value="" />
+			<property name="Intrigue" value="" />
+			<property name="Power" value="" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="" />
+			<property name="Influence" value="" />
+			<property name="Initiative" value="" />
+			<property name="PlotGoldIncome" value="3" />
+			<property name="PlotInitiative" value="4" />
+			<property name="PlotClaim" value="2" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1056" name="The Breaking of Oaths">
+			<property name="House" value="Neutral." />
+			<property name="Type" value="Plot" />
+			<property name="Traits" value="Intrigue Gambit." />
+			<property name="Text" value="Each player may initiate an additional Intrigue challenge this round." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="" />
+			<property name="Strength" value="" />
+			<property name="Military" value="" />
+			<property name="Intrigue" value="" />
+			<property name="Power" value="" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="" />
+			<property name="Influence" value="" />
+			<property name="Initiative" value="" />
+			<property name="PlotGoldIncome" value="3" />
+			<property name="PlotInitiative" value="5" />
+			<property name="PlotClaim" value="1" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1057" name="The Promise of Victory">
+			<property name="House" value="Neutral." />
+			<property name="Type" value="Plot" />
+			<property name="Traits" value="Intrigue Gambit." />
+			<property name="Text" value="After you win an Intrigue challenge, you may put all cards in your hand on the bottom of your deck and replace them with an equal number of cards from the top of your deck." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="" />
+			<property name="Strength" value="" />
+			<property name="Military" value="" />
+			<property name="Intrigue" value="" />
+			<property name="Power" value="" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="" />
+			<property name="Influence" value="" />
+			<property name="Initiative" value="" />
+			<property name="PlotGoldIncome" value="4" />
+			<property name="PlotInitiative" value="0" />
+			<property name="PlotClaim" value="1" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1058" name="Stay of Execution">
+			<property name="House" value="Neutral." />
+			<property name="Type" value="Plot" />
+			<property name="Traits" value="Power Struggle." />
+			<property name="Text" value="If a King or Queen character would be killed, instead return it to its owner's hand." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="" />
+			<property name="Strength" value="" />
+			<property name="Military" value="" />
+			<property name="Intrigue" value="" />
+			<property name="Power" value="" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="" />
+			<property name="Influence" value="" />
+			<property name="Initiative" value="" />
+			<property name="PlotGoldIncome" value="4" />
+			<property name="PlotInitiative" value="4" />
+			<property name="PlotClaim" value="1" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1059" name="An Empty Throne">
+			<property name="House" value="Neutral." />
+			<property name="Type" value="Plot" />
+			<property name="Traits" value="Power Struggle." />
+			<property name="Text" value="Each player may initiate an additional Power challenge this round." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="" />
+			<property name="Strength" value="" />
+			<property name="Military" value="" />
+			<property name="Intrigue" value="" />
+			<property name="Power" value="" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="" />
+			<property name="Influence" value="" />
+			<property name="Initiative" value="" />
+			<property name="PlotGoldIncome" value="3" />
+			<property name="PlotInitiative" value="5" />
+			<property name="PlotClaim" value="1" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1060" name="Rise of the Kraken">
+			<property name="House" value="Neutral." />
+			<property name="Type" value="Plot" />
+			<property name="Traits" value="" />
+			<property name="Text" value="You claim an additional power for winning unopposed challenges." />
+			<property name="Keywords" value="House Greyjoy only." />
+			<property name="Unique" value="No" />
+			<property name="Cost" value="" />
+			<property name="Strength" value="" />
+			<property name="Military" value="" />
+			<property name="Intrigue" value="" />
+			<property name="Power" value="" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="" />
+			<property name="Influence" value="" />
+			<property name="Initiative" value="" />
+			<property name="PlotGoldIncome" value="1" />
+			<property name="PlotInitiative" value="8" />
+			<property name="PlotClaim" value="2" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1001" name="Commander of the Iron Fleet">
+			<property name="House" value="" />
+			<property name="Type" value="Title" />
+			<property name="Traits" value="" />
+			<property name="Text" value="After an opponent wins a Military challenge against you, that opponent takes control of Commander of the Iron Fleet." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="" />
+			<property name="Cost" value="" />
+			<property name="Strength" value="" />
+			<property name="Military" value="" />
+			<property name="Intrigue" value="" />
+			<property name="Power" value="" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="" />
+			<property name="Influence" value="" />
+			<property name="Initiative" value="" />
+			<property name="PlotGoldIncome" value="" />
+			<property name="PlotInitiative" value="" />
+			<property name="PlotClaim" value="" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1002" name="The Crow's Eye">
+			<property name="House" value="" />
+			<property name="Type" value="Title" />
+			<property name="Traits" value="" />
+			<property name="Text" value="After you win an unopposed challenge, claim 1 additional power for your House.&#10;&#10;After an opponent wins an unopposed challenge against you, that opponent takes control of The Crow's Eye." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="" />
+			<property name="Cost" value="" />
+			<property name="Strength" value="" />
+			<property name="Military" value="" />
+			<property name="Intrigue" value="" />
+			<property name="Power" value="" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="" />
+			<property name="Influence" value="" />
+			<property name="Initiative" value="" />
+			<property name="PlotGoldIncome" value="" />
+			<property name="PlotInitiative" value="" />
+			<property name="PlotClaim" value="" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1003" name="Lord of the Isles">
+			<property name="House" value="" />
+			<property name="Type" value="Title" />
+			<property name="Traits" value="" />
+			<property name="Text" value="After an opponent wins a Power challenge against you, that opponent takes control of Lord of the Isles." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="" />
+			<property name="Cost" value="" />
+			<property name="Strength" value="" />
+			<property name="Military" value="" />
+			<property name="Intrigue" value="" />
+			<property name="Power" value="" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="" />
+			<property name="Influence" value="" />
+			<property name="Initiative" value="" />
+			<property name="PlotGoldIncome" value="" />
+			<property name="PlotInitiative" value="" />
+			<property name="PlotClaim" value="" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1004" name="Pirate Marauder">
+			<property name="House" value="" />
+			<property name="Type" value="Title" />
+			<property name="Traits" value="" />
+			<property name="Text" value="If you win initiative, take 2 gold from the treasury and add it to your gold pool.&#10;&#10;If an opponent wins initiative, that opponent takes control of Pirate Marauder." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="" />
+			<property name="Cost" value="" />
+			<property name="Strength" value="" />
+			<property name="Military" value="" />
+			<property name="Intrigue" value="" />
+			<property name="Power" value="" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="" />
+			<property name="Influence" value="" />
+			<property name="Initiative" value="" />
+			<property name="PlotGoldIncome" value="" />
+			<property name="PlotInitiative" value="" />
+			<property name="PlotClaim" value="" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1005" name="Priest of the Drowned God">
+			<property name="House" value="" />
+			<property name="Type" value="Title" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Each gold in your gold pool counts as two STR during the dominance phase.&#10;&#10;If an opponent wins dominance, that opponent takes control of Priest of the Drowned God." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="" />
+			<property name="Cost" value="" />
+			<property name="Strength" value="" />
+			<property name="Military" value="" />
+			<property name="Intrigue" value="" />
+			<property name="Power" value="" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="" />
+			<property name="Influence" value="" />
+			<property name="Initiative" value="" />
+			<property name="PlotGoldIncome" value="" />
+			<property name="PlotInitiative" value="" />
+			<property name="PlotClaim" value="" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1006" name="The Reader">
+			<property name="House" value="" />
+			<property name="Type" value="Title" />
+			<property name="Traits" value="" />
+			<property name="Text" value="After an opponent wins an Intrigue challenge against you, that opponent takes control of The Reader." />
+			<property name="Keywords" value="" />
+			<property name="Unique" value="" />
+			<property name="Cost" value="" />
+			<property name="Strength" value="" />
+			<property name="Military" value="" />
+			<property name="Intrigue" value="" />
+			<property name="Power" value="" />
+			<property name="Crest" value="" />
+			<property name="GoldIncome" value="" />
+			<property name="Influence" value="" />
+			<property name="Initiative" value="" />
+			<property name="PlotGoldIncome" value="" />
+			<property name="PlotInitiative" value="" />
+			<property name="PlotClaim" value="" />
+			<property name="ErrataText" value="" />
+			<property name="Enhancement" value="" /> 
+		</card>
+	</cards>
+</set>
